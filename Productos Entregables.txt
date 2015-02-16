@@ -1,0 +1,16 @@
+Productos Entregables
+
+1.- Diagramas (clases, flujo y entidad-relacion)
+2.- Prototipos
+3.- Codificacion
+4.- Manuales de usuario de nuestros juegos
+5.- Requerimientos
+
+
+revision euristicas 
+revision doc requerimi
+
+decidir como revisar
+revisar
+
+add plan

@@ -5,20 +5,20 @@
         <text>Rompecabezas%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="455" y="104" w="420" h="268" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="447" y="78" w="443" h="301" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>8453888</color>
+        <color>65280</color>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="528" y="110" w="-1" h="-1" measuredW="274" measuredH="62" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="540" y="93" w="-1" h="-1" measuredW="274" measuredH="62" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%A1%A1%A1Felicidades%21%21%21</text>
         <color>255</color>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="611" y="162" w="96" h="91" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="611" y="145" w="97" h="112" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../../../../../C%3A%5CUsers%5Cjoe%5CPictures%5Cfotos%5Clogo.png</src>
+        <src>./logo.png</src>
       </controlProperties>
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::MultilineButton" x="540" y="236" w="238" h="128" measuredW="221" measuredH="128" zOrder="4" locked="false" isInGroup="-1">

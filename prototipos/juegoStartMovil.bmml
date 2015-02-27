@@ -11,30 +11,32 @@
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="655" y="136" w="181" h="181" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="649" y="123" w="195" h="256" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="641" y="136" w="221" h="243" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C121%2C388%2C377%22%20href%3D%22juegoWinnerMovil.bmml%22%20alt%3D%22juegoWinnerMovil%22%20id%3D%223%22/%3E</map>
         <href>juegoWinnerMovil%26bm%3BjuegoWinnerMovil.bmml%26bm%3BjuegoWinnerMovil.bmml%26bm%3BjuegoWinnerMovil.bmml</href>
-        <src>../../../../../C%3A%5CUsers%5Cjoe%5CPictures%5Cfotos%5Clogo.png</src>
+        <src>./logo.png</src>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22185%2C134%2C406%2C377%22%20href%3D%22juegoWinnerMovil.bmml%22%20alt%3D%22juegoWinnerMovil%22%20id%3D%223%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="560" y="151" w="78" h="-1" measuredW="81" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="554" y="151" w="95" h="-1" measuredW="107" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>JumpBackIcon%7Csmall</icon>
         <href>beginMovil%26bm%3BbeginMovil.bmml%26bm%3BbeginMovil.bmml%26bm%3BbeginMovil.bmml</href>
-        <text>Salir</text>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22104%2C149%2C182%2C181%22%20href%3D%22beginMovil.bmml%22%20alt%3D%22beginMovil%22%20id%3D%224%22/%3E</map>
+        <icon>JumpBackIcon%7Csmall</icon>
+        <text>Regresar</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2298%2C149%2C193%2C181%22%20href%3D%22beginMovil.bmml%22%20alt%3D%22beginMovil%22%20id%3D%224%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="560" y="188" w="78" h="-1" measuredW="90" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="563" y="202" w="78" h="-1" measuredW="90" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Nuevo</text>
+        <href>juegoStartMovil%26bm%3BjuegoStartMovil.bmml%26bm%3BjuegoStartMovil.bmml%26bm%3BjuegoStartMovil.bmml</href>
         <icon>ReloadIcon%7Csmall</icon>
+        <text>Nuevo</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22107%2C200%2C185%2C232%22%20href%3D%22juegoStartMovil.bmml%22%20alt%3D%22juegoStartMovil%22%20id%3D%225%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::HRule" x="656" y="197" w="177" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1"/>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="656" y="261" w="177" h="-1" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="775" y="137" w="-1" h="181" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VRule" x="778" y="136" w="-1" h="181" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::VRule" x="718" y="137" w="-1" h="181" measuredW="5" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

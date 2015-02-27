@@ -1,0 +1,67 @@
+<mockup version="1.0" skin="sketch" measuredW="1015" measuredH="450" mockupW="615" mockupH="388">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="390" y="52" w="615" h="388" measuredW="510" measuredH="282" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <orientation>landscape</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="491" y="126" w="412" h="257" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>65280</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="526" y="175" w="341" h="188" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="594" y="135" w="-1" h="-1" measuredW="201" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <underline>true</underline>
+        <text>Juegos%20Nutrici%F3n</text>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="547" y="181" w="173" h="176" measuredW="617" measuredH="623" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+        <src>../../../../Pictures/chibis/captura_de_pantalla_2011-06-16_a_las_11_8977.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="785" y="320" w="-1" h="-1" measuredW="54" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salir</text>
+        <color>32832</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="775" y="282" w="-1" h="-1" measuredW="75" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>creditosMovil%26bm%3BcreditosMovil.bmml%26bm%3BcreditosMovil.bmml%26bm%3BcreditosMovil.bmml</href>
+        <text>Creditos</text>
+        <color>32832</color>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22385%2C230%2C460%2C258%22%20href%3D%22creditosMovil.bmml%22%20alt%3D%22creditosMovil%22%20id%3D%227%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="579" y="211" w="107" h="29" measuredW="103" measuredH="26" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>beginMovil%26bm%3BbeginMovil.bmml%26bm%3BbeginMovil.bmml%26bm%3BbeginMovil.bmml</href>
+        <size>14</size>
+        <text>Rompecabezas</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22189%2C159%2C296%2C188%22%20href%3D%22beginMovil.bmml%22%20alt%3D%22beginMovil%22%20id%3D%228%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="555" y="279" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>carnesMovil%26bm%3BcarnesMovil.bmml%26bm%3BcarnesMovil.bmml%26bm%3BcarnesMovil.bmml</href>
+        <size>14</size>
+        <text>Memorama</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22165%2C227%2C244%2C253%22%20href%3D%22carnesMovil.bmml%22%20alt%3D%22carnesMovil%22%20id%3D%229%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="638" y="282" w="-1" h="-1" measuredW="63" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>panesMovil%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml</href>
+        <text>Ahorcado</text>
+        <color>0</color>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22248%2C230%2C311%2C255%22%20href%3D%22panesMovil.bmml%22%20alt%3D%22panesMovil%22%20id%3D%2210%22/%3E</map>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,40 +1,42 @@
-<mockup version="1.0" skin="sketch" measuredW="901" measuredH="481" mockupW="450" mockupH="439">
+<mockup version="1.0" skin="sketch" measuredW="912" measuredH="472" mockupW="461" mockupH="430">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="441" y="32" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Rompecabezas%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="456" y="126" w="420" h="268" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="449" y="102" w="434" h="301" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>8453888</color>
+        <color>65280</color>
       </controlProperties>
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="615" y="134" w="252" h="252" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="606" y="117" w="270" h="354" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="580" y="128" w="322" h="334" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22165%2C85%2C435%2C439%22%20href%3D%22juegoWinner.bmml%22%20alt%3D%22juegoWinner%22%20id%3D%223%22/%3E</map>
         <href>juegoWinner%26bm%3BjuegoWinner.bmml%26bm%3BjuegoWinner.bmml%26bm%3BjuegoWinner.bmml</href>
-        <src>../../../../../C%3A%5CUsers%5Cjoe%5CPictures%5Cfotos%5Clogo.png</src>
+        <src>./logo.png</src>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22139%2C96%2C461%2C430%22%20href%3D%22juegoWinner.bmml%22%20alt%3D%22juegoWinner%22%20id%3D%223%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="483" y="156" w="108" h="-1" measuredW="81" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <icon>JumpBackIcon%7Csmall</icon>
         <href>begin%26bm%3Bbegin.bmml%26bm%3Bbegin.bmml%26bm%3Bbegin.bmml</href>
+        <icon>JumpBackIcon%7Csmall</icon>
         <text>Salir</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C124%2C150%2C156%22%20href%3D%22begin.bmml%22%20alt%3D%22begin%22%20id%3D%224%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="483" y="207" w="108" h="-1" measuredW="90" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Nuevo</text>
+        <href>juegoStart%26bm%3BjuegoStart.bmml%26bm%3BjuegoStart.bmml%26bm%3BjuegoStart.bmml</href>
         <icon>ReloadIcon%7Csmall</icon>
+        <text>Nuevo</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2242%2C175%2C150%2C207%22%20href%3D%22juegoStart.bmml%22%20alt%3D%22juegoStart%22%20id%3D%225%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="616" y="218" w="245" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1"/>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="616" y="308" w="245" h="-1" measuredW="100" measuredH="5" zOrder="7" locked="false" isInGroup="-1"/>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::VRule" x="780" y="135" w="-1" h="251" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::VRule" x="784" y="137" w="-1" h="251" measuredW="5" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
     <control controlID="13" controlTypeID="com.balsamiq.mockups::VRule" x="701" y="135" w="-1" h="251" measuredW="5" measuredH="100" zOrder="9" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

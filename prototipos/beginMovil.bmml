@@ -5,7 +5,7 @@
         <orientation>landscape</orientation>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="545" y="129" w="296" h="191" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="534" y="129" w="322" h="200" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
         <color>8453888</color>
@@ -13,38 +13,40 @@
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="572" y="150" w="241" h="-1" measuredW="197" measuredH="46" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>255</color>
         <size>28</size>
-        <bold>true</bold>
-        <text>Rompecabezas</text>
         <underline>false</underline>
+        <color>255</color>
+        <bold>true</bold>
         <italic>false</italic>
+        <text>Rompecabezas</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="635" y="217" w="77" h="-1" measuredW="76" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="684" y="211" w="77" h="-1" measuredW="76" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <size>11</size>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22179%2C215%2C256%2C243%22%20href%3D%22juegoStartMovil.bmml%22%20alt%3D%22juegoStartMovil%22%20id%3D%224%22/%3E</map>
         <href>juegoStartMovil%26bm%3BjuegoStartMovil.bmml%26bm%3BjuegoStartMovil.bmml%26bm%3BjuegoStartMovil.bmml</href>
-        <text>Comenzar</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="634" y="253" w="78" h="-1" measuredW="71" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Regresar</text>
         <size>11</size>
+        <text>Comenzar</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22228%2C209%2C305%2C237%22%20href%3D%22juegoStartMovil.bmml%22%20alt%3D%22juegoStartMovil%22%20id%3D%224%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="547" y="196" w="97" h="92" measuredW="128" measuredH="128" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="684" y="254" w="78" h="-1" measuredW="71" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>../Pictures/fotos/logo.png</src>
+        <href>inicioMovil%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml</href>
+        <size>11</size>
+        <text>Regresar</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22228%2C252%2C306%2C280%22%20href%3D%22inicioMovil.bmml%22%20alt%3D%22inicioMovil%22%20id%3D%225%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="557" y="196" w="127" h="126" measuredW="128" measuredH="128" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./logo.png</src>
       </controlProperties>
     </control>
     <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="777" y="292" w="64" h="-1" measuredW="74" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C290%2C385%2C318%22%20href%3D%22creditosMovil.bmml%22%20alt%3D%22creditosMovil%22%20id%3D%227%22/%3E</map>
         <href>creditosMovil%26bm%3BcreditosMovil.bmml%26bm%3BcreditosMovil.bmml%26bm%3BcreditosMovil.bmml</href>
         <text>creditos</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C290%2C385%2C318%22%20href%3D%22creditosMovil.bmml%22%20alt%3D%22creditosMovil%22%20id%3D%227%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

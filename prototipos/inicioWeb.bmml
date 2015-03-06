@@ -59,7 +59,7 @@
     <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="382" y="316" w="75" h="-1" measuredW="75" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <href>creditos%26bm%3Bcreditos.bmml%26bm%3Bcreditos.bmml%26bm%3Bcreditos.bmml</href>
-        <text>Creditos</text>
+        <text>Cr%E9ditos</text>
         <color>32832</color>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2281%2C312%2C156%2C340%22%20href%3D%22creditos.bmml%22%20alt%3D%22creditos%22%20id%3D%2239%22/%3E</map>
       </controlProperties>

@@ -86,18 +86,18 @@
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="781" y="375" w="-1" h="-1" measuredW="107" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>8388608</color>
-        <href>inicioWeb%26bm%3BinicioWeb.bmml%26bm%3BinicioWeb.bmml%26bm%3BinicioWeb.bmml</href>
+        <href>dificultadpanes%26bm%3Bdificultadpanes.bmml%26bm%3Bdificultadpanes.bmml%26bm%3Bdificultadpanes.bmml</href>
         <icon>JumpBackIcon%7Csmall</icon>
+        <color>8388608</color>
         <text>Regresar</text>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22373%2C367%2C480%2C399%22%20href%3D%22inicioWeb.bmml%22%20alt%3D%22inicioWeb%22%20id%3D%2214%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22373%2C367%2C480%2C399%22%20href%3D%22dificultadpanes.bmml%22%20alt%3D%22dificultadpanes%22%20id%3D%2214%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="471" y="372" w="-1" h="-1" measuredW="90" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>8388608</color>
         <href>panesWeb%26bm%3BpanesWeb.bmml%26bm%3BpanesWeb.bmml%26bm%3BpanesWeb.bmml</href>
         <icon>ReloadIcon%7Csmall</icon>
+        <color>8388608</color>
         <text>Nuevo</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2263%2C364%2C153%2C396%22%20href%3D%22panesWeb.bmml%22%20alt%3D%22panesWeb%22%20id%3D%2215%22/%3E</map>
       </controlProperties>

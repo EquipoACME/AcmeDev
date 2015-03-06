@@ -33,15 +33,15 @@
         <href>panesWeb%26bm%3BpanesWeb.bmml%26bm%3BpanesWeb.bmml%26bm%3BpanesWeb.bmml</href>
         <backgroundAlpha>1</backgroundAlpha>
         <icon>EmoticonIcon%7Csmall</icon>
-        <text>El%20pescado%20provee%20es%20saludable%0ASu%20informaci%F3n%20nutrimental%3A%0AOmega%203.....67g%0AAcido......0.01g</text>
+        <text>El%20pescado%20provee%20es%20saludable%0ASu%20informaci%F3n%20nutrimental%3A%0AOmega%203.....67g%0A%C1cido......0.01g</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22193%2C201%2C467%2C315%22%20href%3D%22panesWeb.bmml%22%20alt%3D%22panesWeb%22%20id%3D%225%22/%3E</map>
         <color>16777062</color>
       </controlProperties>
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="784" y="359" w="-1" h="-1" measuredW="76" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>8388608</color>
         <href>inicioWeb%26bm%3BinicioWeb.bmml%26bm%3BinicioWeb.bmml%26bm%3BinicioWeb.bmml</href>
+        <color>8388608</color>
         <text>Principal</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22397%2C341%2C473%2C369%22%20href%3D%22inicioWeb.bmml%22%20alt%3D%22inicioWeb%22%20id%3D%226%22/%3E</map>
       </controlProperties>

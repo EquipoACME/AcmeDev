@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" measuredW="931" measuredH="472" mockupW="646" mockupH="435">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="275" y="27" w="646" h="435" measuredW="510" measuredH="282" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <orientation>landscape</orientation>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="379" y="119" w="436" h="265" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+        <color>8388608</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="413" y="199" w="132" h="146" measuredW="144" measuredH="160" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+        <src>./ahorcado.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="480" y="146" w="-1" h="-1" measuredW="236" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ahorcado%20de%20carnes</text>
+        <size>24</size>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="628" y="234" w="103" h="-1" measuredW="53" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>panesMovil%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml</href>
+        <text>F%E1cil</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22353%2C207%2C456%2C235%22%20href%3D%22panesMovil.bmml%22%20alt%3D%22panesMovil%22%20id%3D%224%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="630" y="266" w="106" h="-1" measuredW="67" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>panesMovil%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml</href>
+        <text>Normal</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C239%2C461%2C267%22%20href%3D%22panesMovil.bmml%22%20alt%3D%22panesMovil%22%20id%3D%225%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="630" y="297" w="106" h="-1" measuredW="61" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>panesMovil%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml</href>
+        <text>Dif%EDcil</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C270%2C461%2C298%22%20href%3D%22panesMovil.bmml%22%20alt%3D%22panesMovil%22%20id%3D%226%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="718" y="332" w="-1" h="-1" measuredW="80" measuredH="28" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>inicioMovil%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml</href>
+        <text>Regresar</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22443%2C305%2C523%2C333%22%20href%3D%22inicioMovil.bmml%22%20alt%3D%22inicioMovil%22%20id%3D%227%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="579" y="203" w="151" h="26" measuredW="82" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Dificultad</text>
+        <size>16</size>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

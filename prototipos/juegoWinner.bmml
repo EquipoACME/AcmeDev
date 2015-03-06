@@ -21,11 +21,11 @@
         <src>./logo.png</src>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::MultilineButton" x="540" y="236" w="238" h="128" measuredW="221" measuredH="128" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::MultilineButton" x="540" y="236" w="238" h="128" measuredW="220" measuredH="128" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <href>begin%26bm%3Bbegin.bmml%26bm%3Bbegin.bmml%26bm%3Bbegin.bmml</href>
         <icon>Info2Icon%7Csmall</icon>
-        <text>Manzana%0ALa%20manzana%20tiene%20propiedades...%0Aque%20te%20ayudan%20a...%0Ay%20puedes%20evitar...%0A-come%20frutas%20y%20verduras-</text>
+        <text>Manzana%0ALa%20manzana%20tiene%20propiedades...%0Aque%20te%20ayudan%20a...%0AY%20puedes%20evitar...%0A-come%20frutas%20y%20verduras-</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22100%2C228%2C338%2C356%22%20href%3D%22begin.bmml%22%20alt%3D%22begin%22%20id%3D%227%22/%3E</map>
       </controlProperties>
     </control>

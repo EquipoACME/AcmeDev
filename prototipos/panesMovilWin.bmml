@@ -40,8 +40,8 @@
     </control>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="771" y="318" w="62" h="-1" measuredW="76" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>8388608</color>
         <href>inicioMovil%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml</href>
+        <color>8388608</color>
         <text>Principal</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22418%2C277%2C480%2C305%22%20href%3D%22inicioMovil.bmml%22%20alt%3D%22inicioMovil%22%20id%3D%226%22/%3E</map>
       </controlProperties>

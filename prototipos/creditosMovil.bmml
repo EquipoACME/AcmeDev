@@ -13,14 +13,14 @@
     <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="587" y="149" w="211" h="120" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
-        <text>Desarrollado%20por%0A...%0APromocionand%20una%20buena%0Aalimentacion...%0Afue%20desarrollado%20por%0Aestudiantes%20del%20IPN-UPIIZ%0A-Es%20tu%20mejor%20opcion-</text>
+        <text>Desarrollado%20por%0A...%0APromocionando%20una%20buena%0Aalimentaci%F3n...%0Afue%20desarrollado%20por%0Aestudiantes%20del%20IPN-UPIIZ%0A-Es%20tu%20mejor%20opci%F3n-</text>
         <color>16777062</color>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="671" y="275" w="48" h="-1" measuredW="54" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>65280</color>
         <href>inicioMovil%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml%26bm%3BinicioMovil.bmml</href>
+        <color>65280</color>
         <text>Salir</text>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22215%2C273%2C263%2C301%22%20href%3D%22inicioMovil.bmml%22%20alt%3D%22inicioMovil%22%20id%3D%223%22/%3E</map>
       </controlProperties>

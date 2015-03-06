@@ -34,7 +34,7 @@
     <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="775" y="282" w="-1" h="-1" measuredW="75" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <href>creditosMovil%26bm%3BcreditosMovil.bmml%26bm%3BcreditosMovil.bmml%26bm%3BcreditosMovil.bmml</href>
-        <text>Creditos</text>
+        <text>Cr%E9ditos</text>
         <color>32832</color>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22385%2C230%2C460%2C258%22%20href%3D%22creditosMovil.bmml%22%20alt%3D%22creditosMovil%22%20id%3D%227%22/%3E</map>
       </controlProperties>
@@ -49,18 +49,18 @@
     </control>
     <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="555" y="279" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>carnesMovil%26bm%3BcarnesMovil.bmml%26bm%3BcarnesMovil.bmml%26bm%3BcarnesMovil.bmml</href>
+        <href>dificultadcarnesmovil%26bm%3Bdificultadcarnesmovil.bmml%26bm%3Bdificultadcarnesmovil.bmml%26bm%3Bdificultadcarnesmovil.bmml</href>
         <size>14</size>
         <text>Memorama</text>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22165%2C227%2C244%2C253%22%20href%3D%22carnesMovil.bmml%22%20alt%3D%22carnesMovil%22%20id%3D%229%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22165%2C227%2C244%2C253%22%20href%3D%22dificultadcarnesmovil.bmml%22%20alt%3D%22dificultadcarnesmovil%22%20id%3D%229%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="638" y="282" w="-1" h="-1" measuredW="63" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>panesMovil%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml%26bm%3BpanesMovil.bmml</href>
+        <href>dificultadpanesmovil%26bm%3Bdificultadpanesmovil.bmml%26bm%3Bdificultadpanesmovil.bmml%26bm%3Bdificultadpanesmovil.bmml</href>
         <text>Ahorcado</text>
         <color>0</color>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22248%2C230%2C311%2C255%22%20href%3D%22panesMovil.bmml%22%20alt%3D%22panesMovil%22%20id%3D%2210%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22248%2C230%2C311%2C255%22%20href%3D%22dificultadpanesmovil.bmml%22%20alt%3D%22dificultadpanesmovil%22%20id%3D%2210%22/%3E</map>
       </controlProperties>
     </control>
   </controls>
